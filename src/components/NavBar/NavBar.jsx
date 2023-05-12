@@ -1,14 +1,13 @@
-// import './App.css'
+// import { Link } from 'react-router-dom'
 
-const NavBar = () => {
-  return ( 
+const Nav = () => {
+  return (
     <header>
-
       <nav>
-    <h1>Star Wars</h1>
+        STAR WARS STARSHIPS
       </nav>
     </header>
   )
 }
 
-export default NavBar
+export default Nav
